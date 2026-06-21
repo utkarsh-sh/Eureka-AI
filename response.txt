@@ -1,0 +1,9 @@
+I'd be happy to help you with your web development course.
+
+So, I understand you're looking for information on where Block elements in HTML are taught and how much content is covered in relation to video chunks.
+
+The topic of Block elements in HTML is actually covered in video 8. In that video, at around the timestamp of 319 seconds, it's mentioned that an inline element is discussed in relation to HTML elements (it starts from 319 seconds). 
+
+Additionally, a similar point about inline elements appears around the 491-493 second mark.
+
+If you're looking for detailed information on Block elements in HTML within your course materials, I recommend checking video 8.
